@@ -6,6 +6,12 @@ This portfolio reflects my learning journey, technical skills, and passion for c
 
 ---
 
+## 🔗 Project Links
+
+💻 **GitHub Repository:**  
+
+---
+
 ## ✨ Features
 
 - 💜 Modern UI Design
@@ -30,7 +36,7 @@ This portfolio reflects my learning journey, technical skills, and passion for c
 
 ## 📂 Project Structure
 
-```
+```text
 Portfolio/
 │
 ├── index.html
